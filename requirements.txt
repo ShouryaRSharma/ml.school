@@ -14,3 +14,4 @@ nbclient
 ipykernel
 Flask
 comet-ml
+seaborn
